@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-05 22:36:31
+# UPDATED: 2022-08-15 14:25:16
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 24847
+# DOMAIN-SUFFIX: 24849
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25036
+# TOTAL: 25038
 abematv.akamaized.net
 addons.mozilla.org
 amp-api.podcasts.apple.com
@@ -8488,6 +8488,7 @@ testflight.apple.com
 .gandhidham.com
 .ganetstudio.com
 .ganges.com
+.ganjingworld.com
 .gaoloumi.cc
 .gaoming.net
 .gaopi.net
@@ -14696,6 +14697,7 @@ testflight.apple.com
 .prosiben.de
 .proteinalactea.com
 .protempproducts.com
+.proton.me
 .protonvpn.com
 .protv.ro
 .protvi.ro

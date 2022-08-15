@@ -12,16 +12,16 @@ BiliBili规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-08-05 22:36:51
+最后更新时间：2022-08-15 14:25:42
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 52  | 
 | HOST-SUFFIX | 51  | 
-| IP-CIDR | 11  | 
+| IP-CIDR | 8  | 
 | USER-AGENT | 4  | 
-| TOTAL | 118  | 
+| TOTAL | 115  | 
 
 
 ## QuantumultX 

@@ -1,84 +1,55 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-08-15 02:27:20
-! Total: 102112
+! Updated: 2022-08-15 14:24:53
+! Total: 102129
 
 
-||3p-geo.yahoo.com^
-||3p-udc.yahoo.com^
 ||46186911.vtt^
-||5htftu.com^
-||666757.xyz^
 ||80055404.vtt^
 ||absurdapple.com^
-||adfox.yandex.ru^
 ||adfstat.yandex.ru^
 ||ads.yahoo.com^
 ||ads.youtube.com^
-||adsdk.yandex.ru^
-||an.yandex.ru^
 ||anxiousapples.com^
 ||api.sec.miui.com^
 ||app.ssp.yahoo.com^
 ||appboy-images.com^
-||apple.www.letv.com^
 ||applebarq.com^
 ||applequan.com^
 ||applescringe.com^
-||awaps.yandex.ru^
 ||awsync.yandex.ru^
-||bats.video.yahoo.com^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
-||bs.yandex.ru^
-||collector2c.zhihuishu.com^
-||cookiex.ngd.yahoo.com^
 ||crypta.js^
 ||d1stxfv94hrhia.cloudfront^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||efficientapplesimulator.com^
 ||fpb1.apple886.com^
-||ganon.yahoo.com^
-||geo.yahoo.com^
-||glaichid.net^
-||globalso.biz^
 ||https-apple.com^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
-||imilroshoors.com^
-||informer.yandex.ru^
-||jill.fc.yahoo.com^
+||itbwq.xyz^
 ||jpaasne.e.shifen.com^
-||kihudevo.pro^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
-||mc.yandex.ru^
 ||mediaappletree.com^
 ||meitaolianmeng.ltd^
 ||mm.n3w1d0ma1n^
-||mnvrwq.xyz^
 ||mo.vlpyj.xy^
-||morlsbli.cyou^
-||mxlwmp.cn^
-||nol.yahoo.com^
+||mrshw.mobi^
 ||pr.comet.yahoo.com^
-||pv.sohu.com^
-||qhsihvjmut.com^
 ||rrf.fat1domain1^
-||sdnc.top^
 ||shackapple.com^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
-||supportmetrics.apple.com^
-||test.vast^
-||thathechoxe.com^
 ||theapple.site^
-||visit.webhosting.yahoo.com^
-||vptadv.com^
+||tumnxwvd.ink^
+||vgrovkb.cn^
+||vumnxwvf.ink^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||youtube.local^
-||zovgdpj.cn^
+||zlgame.top^
 ||0.code.cotsta.ru^
 ||0001.best^
 ||000123456789.online^
@@ -996,6 +967,7 @@
 ||5glyqw.com^
 ||5gustis.xyz^
 ||5h3oyhv838.com^
+||5htftu.com^
 ||5ibanma.com^
 ||5idoy8p7.live^
 ||5ijs.vip^
@@ -1113,6 +1085,7 @@
 ||666753.xyz^
 ||666754.xyz^
 ||666755.xyz^
+||666757.xyz^
 ||6667778882021.site^
 ||666video.asia^
 ||668kbet.com^
@@ -18520,6 +18493,7 @@
 ||glacah.com^
 ||gladcrumple.com^
 ||gladiol9us10.com^
+||glaichid.net^
 ||glaimtug.com^
 ||glainsee.com^
 ||glaivoun.net^
@@ -18595,6 +18569,7 @@
 ||globalinteractive.com^
 ||globalismedia.com^
 ||globalnews247.net^
+||globalso.biz^
 ||globalstars.ru^
 ||globalsuccessclub.com^
 ||globaltakeoff.net^
@@ -21288,6 +21263,7 @@
 ||imhd.io^
 ||imho.ru^
 ||imiclk.com^
+||imilroshoors.com^
 ||imim.me^
 ||imimtord.net^
 ||iminatedm.com^
@@ -23348,6 +23324,7 @@
 ||kieden.com^
 ||kiezohky.xyz^
 ||kihoadoa.com^
+||kihudevo.pro^
 ||kijkxx.com^
 ||kikibobo.top^
 ||kikugrotzen.com^
@@ -27182,6 +27159,7 @@
 ||mnutan.fr^
 ||mnuy56.site^
 ||mnvde.com^
+||mnvrwq.xyz^
 ||mnwor.xuanlishi.com^
 ||mnyh.fun^
 ||mo.5.p2l.info^
@@ -27456,6 +27434,7 @@
 ||morgdm.ru^
 ||mori.ink^
 ||moriceprich.com^
+||morlsbli.cyou^
 ||morning-croissant.fr^
 ||morning-maps.com^
 ||morninguglychampionship.com^
@@ -27843,6 +27822,7 @@
 ||mxcount.com^
 ||mxeinvwitjitk.com^
 ||mxhbkj.cn^
+||mxlwmp.cn^
 ||mxmcdn.net^
 ||mxowrwb.cn^
 ||mxptint.net^
@@ -33245,6 +33225,7 @@
 ||qhnwj.com^
 ||qhonzpl.cn^
 ||qhqofqeivtno.com^
+||qhsihvjmut.com^
 ||qhupdate.com^
 ||qhytkj.xyz^
 ||qian-tao.xyz^
@@ -33398,6 +33379,7 @@
 ||qqjmbj.com^
 ||qqlogo.qq.com^
 ||qqmilk.ru^
+||qqpwhge.cn^
 ||qqq-www-987.site^
 ||qqq123987.site^
 ||qqqmmm.top^
@@ -35793,6 +35775,7 @@
 ||sdljvrf.cn^
 ||sdmfyqkghzedvx.com^
 ||sdmot.ru^
+||sdnc.top^
 ||sdnpggwbkprsndt.xyz^
 ||sdofp9c.cddrhx.cn^
 ||sdqinghong.cn^
@@ -39597,6 +39580,7 @@
 ||thanosofcos5.com^
 ||thapsooz.net^
 ||tharbadir.com^
+||thathechoxe.com^
 ||thathersevengid.ru^
 ||thatitgivesm.biz^
 ||thatohegly.com^
@@ -43135,6 +43119,7 @@
 ||vppvp.com^
 ||vprza.com^
 ||vpsite.ru^
+||vptadv.com^
 ||vptbn.com^
 ||vptjabo.cn^
 ||vpvbojamkoxo.com^
@@ -45619,6 +45604,7 @@
 ||xoomer.alice.it^
 ||xoor.ru^
 ||xopcdnhjf.com^
+||xorlsblw.cyou^
 ||xoso12345.com^
 ||xoso5678.com^
 ||xoso6.com^
@@ -46069,6 +46055,7 @@
 ||yhhbtavgpuo.com^
 ||yhhls.com^
 ||yhhtmdvuubnbtbp.com^
+||yhilnc.cn^
 ||yhjzg.cn^
 ||yhkiain.cn^
 ||yhkt.online^
@@ -47087,6 +47074,7 @@
 ||zouphail.com^
 ||zoutubephaid.com^
 ||zouxinyan.xyz^
+||zovgdpj.cn^
 ||zowinvn.vip^
 ||zoxetijy.xyz^
 ||zozocash.biz^
@@ -69025,6 +69013,7 @@
 ||660a755deb8829fe.com^
 ||661291.com^
 ||6613167.cn^
+||666758.xyz^
 ||668559.com^
 ||66ce98158e4f402.com^
 ||66wen.com^
@@ -70267,6 +70256,7 @@
 ||adutp.com^
 ||adv.ads2.bid^
 ||adv.herocraft.com^
+||adv.r7.com^
 ||advancelocal-adapter-image-uploads.s3.amazonaws.com^
 ||advantagemedia.com^
 ||advantscivile.club^
@@ -71218,6 +71208,7 @@
 ||arrowkeeperdigest.com^
 ||arshgkcfdhgr.com^
 ||arsoncanteenpicky.com^
+||artemis-cdn.ocdn.eu^
 ||artgullyhep.com^
 ||artibot.ai^
 ||articismstre.fun^
@@ -73405,6 +73396,7 @@
 ||core.bruynzeelkeukens.nl^
 ||coremetrics.carrier.com^
 ||corkysound.com^
+||corlsblt.cyou^
 ||cornfloweramnesty.com^
 ||coroplastsheet.cn^
 ||corover.mobi^
@@ -81638,6 +81630,7 @@
 ||njsbzc.cn^
 ||njtwub.schneider.de^
 ||njzheqkcyr.com^
+||nkevca.cn^
 ||nkjomdiztdy.com^
 ||nkmarxpzacidhn.com^
 ||nkothz.duskin.jp^
@@ -83653,7 +83646,6 @@
 ||qqdwz.com^
 ||qqeuq1cmoooq.accuretawealth.com^
 ||qqppz.com^
-||qqpwhge.cn^
 ||qqqyuz.madoross.com^
 ||qqwlfm.cn^
 ||qqyydb.shopatshowcase.com^
@@ -84168,6 +84160,7 @@
 ||root85.com^
 ||rooveysimagi.club^
 ||ropupevi.pro^
+||rorlsblm.cyou^
 ||rosemand.pro^
 ||roseolsen.pro^
 ||rote8mino.com^
@@ -85126,6 +85119,7 @@
 ||sgcsuscnyw.com^
 ||sge-chat.skorpik.ru^
 ||sghehllds.com^
+||sghmvum.cn^
 ||sgsnssdk.com.edgekey.net^
 ||sgzzlojrhivs.com^
 ||shadeslonesome.com^
@@ -88463,6 +88457,7 @@
 ||tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com^
 ||tracker.personizely.net^
 ||tracker.tgbus.com^
+||tracker.tolvnow.com^
 ||tracker.winudf.com^
 ||trackerislive.com^
 ||trackerx.ru^
@@ -89277,6 +89272,7 @@
 ||virginoxygen.com^
 ||virtuagirlhd.com^
 ||virtwishes.site^
+||visit-prod-us.occa.ocs.oraclecloud.com^
 ||visit.donateblood.com.au^
 ||visitimportantly.com^
 ||visitors.winecountrygiftbaskets.com^
@@ -90326,7 +90322,6 @@
 ||xokikdassjjhrn.com^
 ||xoq.pmubrasil.com.br^
 ||xorcibleboth.club^
-||xorlsblw.cyou^
 ||xouzmvlt.com^
 ||xoxo5-eng.spankbang.com^
 ||xp666.com^
@@ -90521,6 +90516,7 @@
 ||yfivoqeh.online^
 ||yfomeimset.com^
 ||yfrbtc.mynet.com^
+||yfunkgk.cn^
 ||yfzcuw.cn^
 ||yfzjhvllsioo.com^
 ||yghua.com^
@@ -90535,7 +90531,6 @@
 ||yh21kk.com^
 ||yh303030.com^
 ||yhaxlxpuwl.com^
-||yhilnc.cn^
 ||yicpx.com^
 ||yidaweb.com^
 ||yidu.cc^
@@ -90965,6 +90960,7 @@
 ||zxryytzesvn.com^
 ||zxuafe.fashionette.nl^
 ||zxw51.com^
+||zxwnlg.com^
 ||zxxvns.f64.ro^
 ||zyasdj.earthboundtrading.com^
 ||zymbrlgu.cn^
@@ -90990,22 +90986,41 @@
 ||zzsiqn.happyxnature.com^
 ||zzyanhushi.com^
 ||zzz.pissrip.net^
+||3p-geo.yahoo.com^
+||3p-udc.yahoo.com^
 ||ad.kddi-fs.com^
+||adfox.yandex.ru^
+||adsdk.yandex.ru^
 ||adtech-events.bookmyshow.com^
 ||amethyst.zappos.com^
+||an.yandex.ru^
+||apple.www.letv.com^
 ||audit.qiuwen.wiki^
+||awaps.yandex.ru^
+||bats.video.yahoo.com^
+||bs.yandex.ru^
+||collector2c.zhihuishu.com^
+||cookiex.ngd.yahoo.com^
 ||dig.lianjia.com^
 ||dtag.breadfinancial.com^
 ||events-prod.autolist.com^
+||fingerprinter-production.herokuapp.com^
+||ganon.yahoo.com^
+||geo.yahoo.com^
 ||gotie.tunein.com^
+||informer.yandex.ru^
+||jill.fc.yahoo.com^
 ||log.kuwo.cn^
+||mc.yandex.ru^
 ||metrics.apple.com^
 ||metrics.cvs.com^
 ||metrics.tbs.com^
 ||microlearning.att.com^
+||nol.yahoo.com^
 ||ohm-dot-hackster-io.appspot.com^
 ||pages.att.com^
 ||pm.dailykos.com^
+||pv.sohu.com^
 ||pxl.indeed.com^
 ||qm.redbull.com^
 ||reports.tunein.com^
@@ -91015,9 +91030,12 @@
 ||ssp.rambler.ru^
 ||sstats.fintro.be9.kohls.com^
 ||sugar.zhihu.com^
+||supportmetrics.apple.com^
+||test.vast^
 ||tgt.maep.ibm.com^
 ||track.buyma.com^
 ||tracker.affiliate.iqbroker.com^
+||visit.webhosting.yahoo.com^
 ||w3-reporting.reddit.com^
 ||zxvttq.goldapple.ru^
 ||17gouwuba.com^
@@ -96314,7 +96332,6 @@
 ||metrics.hemlibra.com^
 ||metrics.hmhco.com^
 ||metrics.humirapro.com^
-||metrics.icloud.com^
 ||metrics.ireport.com^
 ||metrics.jeppesen.com^
 ||metrics.jetblue.com^

@@ -12,7 +12,7 @@ ChinaMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-08-05 22:37:20
+最后更新时间：2022-08-15 14:26:15
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -20,9 +20,9 @@ ChinaMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 56  | 
 | DOMAIN-KEYWORD | 2  | 
 | DOMAIN-SUFFIX | 166  | 
-| IP-CIDR | 31  | 
+| IP-CIDR | 28  | 
 | USER-AGENT | 31  | 
-| TOTAL | 286  | 
+| TOTAL | 283  | 
 
 
 ## Loon 

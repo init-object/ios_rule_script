@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-05 22:36:41
+# UPDATED: 2022-08-15 14:25:30
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 30
-# DOMAIN-SUFFIX: 24700
+# DOMAIN-SUFFIX: 24702
 # IP-CIDR: 92
 # IP-CIDR6: 3
 # USER-AGENT: 7
-# TOTAL: 24839
+# TOTAL: 24841
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -8289,6 +8289,7 @@ voice.telephony.goog
 .gandhidham.com
 .ganetstudio.com
 .ganges.com
+.ganjingworld.com
 .gaoloumi.cc
 .gaoming.net
 .gaopi.net
@@ -14506,6 +14507,7 @@ voice.telephony.goog
 .prosiben.de
 .proteinalactea.com
 .protempproducts.com
+.proton.me
 .protonvpn.com
 .protv.ro
 .protvi.ro

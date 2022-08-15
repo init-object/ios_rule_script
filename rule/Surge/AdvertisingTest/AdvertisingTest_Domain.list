@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-15 02:27:17
+# UPDATED: 2022-08-15 14:24:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 9552
+# DOMAIN: 9545
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 92569
+# DOMAIN-SUFFIX: 92593
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 102927
+# TOTAL: 102944
 0026645142c89aeb1.com
 017e689c749.com
 0374adc8c6a6a56.com
@@ -162,7 +162,6 @@
 5edb123fa3329.com
 5f8fbbfc2244adc9.com
 5gl1x9qc.com
-5htftu.com
 6066bd8aab9d73e3.com
 61kx.uk-insolvencydirect.com
 6200a50af8e3.com
@@ -170,7 +169,6 @@
 65c6.playfabapi.com
 65e750617ae8f0421.com
 65h79.cn
-666757.xyz
 67126e4413a.com
 67785az.com
 6868bbe42af8e518.com
@@ -2600,6 +2598,7 @@ files.dsnetwb.com
 filterycreasona.info
 finance-reporting.org
 financenews.pw
+fingerprinter-production.herokuapp.com
 finnhair.co.uk
 finsbfaizzx.com
 finverty.info
@@ -2969,7 +2968,6 @@ gkpsrxgdbco.com
 gkqcduzwla.com
 gkrvcunjoacvc.com
 gkumodsmcmffdv.com
-glaichid.net
 glaumtok.com
 glbsuoebquueky.com
 gleechood.com
@@ -2980,7 +2978,6 @@ glgcclcyz.com
 glmaamwyjkx.com
 global.cmcs.service.amazonsilk.com
 globaldating.online
-globalso.biz
 gloolsee.net
 gloumtol.net
 gloussuz.com
@@ -3553,7 +3550,6 @@ imgtown.pw
 imgtty.com
 imgview.pw
 imhizxejm.com
-imilroshoors.com
 immscjnenl.com
 impcounter.com
 impressionperformance.biz
@@ -3674,6 +3670,7 @@ istrawzh3.com
 isub.snssdk.com.bytedns.net
 isyxabloojj.com
 iszqveznr.com
+itbwq.xyz
 itecsozudb.com
 itefgucwwytfc.com
 ithyk.frenchgerlemanelectric.com
@@ -4106,7 +4103,6 @@ kids-fashion.dk
 kieecarfftwf.com
 kiejztfpkfayak.com
 kifxgosycvxplk.com
-kihudevo.pro
 kilomonj.net
 kimqbvkaidbwst.com
 kingsoft.com
@@ -5025,7 +5021,6 @@ mnbfujorh.com
 mnfiiphpwzyncr.com
 mnnsjudnfgalyx.com
 mnozqjxzrhko.com
-mnvrwq.xyz
 mnwmcyyoxm.com
 mnyawkpabrsv.com
 mnzdgidf.com
@@ -5078,7 +5073,6 @@ mopub-server.thinknearhub.com
 mopxhrgiyybr.com
 mordi.fun
 morenews3.net
-morlsbli.cyou
 morningdigit.com
 morydark.pw
 mosdqxsgjhes.com
@@ -5109,6 +5103,7 @@ mrjppjqmc.com
 mrjzfzwey.com
 mrnvpqtqkx.com
 mrperfect.in
+mrshw.mobi
 mruxsxrnu.com
 mrycrypto.com
 mrzpfpgh.com
@@ -5185,7 +5180,6 @@ mwtvrqokhbnidz.com
 mwvznnssqv.com
 mwzquivpqnod.com
 mxadtjluuv.com
-mxlwmp.cn
 mxphrvkcgvcpl.com
 mxvncslrduda.com
 mxysalqnbj.com
@@ -6312,7 +6306,6 @@ qhoosovyj.com
 qhpjexftk.com
 qhpwanmnbvkiio.com
 qhpwqremdlclpk.com
-qhsihvjmut.com
 qhuktypo.com
 qiaepasvtp.com
 qibbblerzykelr.com
@@ -6896,7 +6889,6 @@ sdk2.youguoquan.com
 sdk3.ibm.xtify.com
 sdkstatic.onemt.co
 sdkupdate.gamigames.com
-sdnc.top
 sdtld.net
 sdtqotoe.com
 sdytygrznweksx.com
@@ -7453,7 +7445,6 @@ tgugqkjvinvgv.com
 tguzugtyoh.com
 thaixaux.net
 thaoxqlqcy.com
-thathechoxe.com
 thatterians.pro
 thcextractor.com
 thcvaporizer.com
@@ -7653,6 +7644,7 @@ tubedspots.com
 tubemoviez.com
 tui.taobao.com
 tukuterus.com
+tumnxwvd.ink
 tuopabyjje.com
 turbofileindir.com
 tuygdfsydexdeb.com
@@ -8082,6 +8074,7 @@ vghjsrae.com
 vgjwkjinwkud.com
 vgnlhfdkmcdc.com
 vgodvvcwrshk.com
+vgrovkb.cn
 vgszcaszzef.com
 vgvzvqbzhh.com
 vgyakiejafjjj.com
@@ -8187,7 +8180,6 @@ vpjtrmeyq.com
 vplvywqxsm.com
 vpn.celueziben.com
 vpndcpxavg.com
-vptadv.com
 vptggenzv.com
 vptgnqpknpdyq.com
 vpwdweham.com
@@ -8232,6 +8224,7 @@ vuhaupso.net
 vuikvvkcdas.com
 vulbyhxsrxcdgo.com
 vulging.pro
+vumnxwvf.ink
 vuqufeqv.com
 vural-electronic.com
 vuvcwrxn.com
@@ -9416,6 +9409,7 @@ zlahmbwm.com
 zlddifyo.com
 zldijcenor.com
 zlfzeuvk.com
+zlgame.top
 zlhscyahjbaq.com
 zlkrsqad.com
 zllanqoglad.com
@@ -9457,7 +9451,6 @@ zoszujvvlu.com
 zotjktpk.com
 zounhlyqz.com
 zous.szm.sk
-zovgdpj.cn
 zoyxbjmmlsrc.com
 zpaanftgs.com
 zpaimilpqx.com
@@ -11639,6 +11632,7 @@ zzxosget.com
 .5glyqw.com
 .5gustis.xyz
 .5h3oyhv838.com
+.5htftu.com
 .5hytr.xyz
 .5i8xkqjmqubv.top
 .5ibanma.com
@@ -11847,6 +11841,8 @@ zzxosget.com
 .666753.xyz
 .666754.xyz
 .666755.xyz
+.666757.xyz
+.666758.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -18061,6 +18057,7 @@ zzxosget.com
 .adv.neverbuy.com
 .adv.nexthardware.com
 .adv.pilseta24.lv
+.adv.r7.com
 .adv.s8bbs.com
 .adv.sec.intl.miui.com
 .adv.sec.miui.com
@@ -21245,6 +21242,7 @@ zzxosget.com
 .artbluesea.xyz
 .artedu.pw
 .artefact.is
+.artemis-cdn.ocdn.eu
 .artemisaffiliates.com
 .arteradio.fr
 .artfin.club
@@ -30947,6 +30945,7 @@ zzxosget.com
 .corkery.biz
 .corkycrazy.com
 .corkysound.com
+.corlsblt.cyou
 .cornerbut.com
 .cornfloweramnesty.com
 .cornplus.cn
@@ -43858,6 +43857,7 @@ zzxosget.com
 .gladcrumple.com
 .gladiatorbugs.com
 .gladiol9us10.com
+.glaichid.net
 .glailols.com
 .glaimtug.com
 .glainsee.com
@@ -43971,6 +43971,7 @@ zzxosget.com
 .globalinteractive.com
 .globalismedia.com
 .globalnews247.net
+.globalso.biz
 .globalstars.ru
 .globalsuccessclub.com
 .globaltakeoff.net
@@ -49026,6 +49027,7 @@ zzxosget.com
 .imhwzc.blibli.com
 .imiclk.com
 .imiek.com
+.imilroshoors.com
 .imim.me
 .imimobile.com
 .imimtord.net
@@ -53142,6 +53144,7 @@ zzxosget.com
 .kigarettywurz.club
 .kighmh.nelson.nl
 .kihoadoa.com
+.kihudevo.pro
 .kiip.me
 .kijkxx.com
 .kiki.rireetchansons.fr
@@ -60520,7 +60523,6 @@ zzxosget.com
 .metrics.htc.com
 .metrics.humirapro.com
 .metrics.hyundaiusa.com
-.metrics.icloud.com
 .metrics.iconfitness.com
 .metrics.ikea.com
 .metrics.ilovematlab.cn
@@ -61873,6 +61875,7 @@ zzxosget.com
 .mnutan.fr
 .mnuy56.site
 .mnvde.com
+.mnvrwq.xyz
 .mnwan.com
 .mnwor.xuanlishi.com
 .mnxhj.com
@@ -62340,6 +62343,7 @@ zzxosget.com
 .mori.ink
 .moriceprich.com
 .moritava.com
+.morlsbli.cyou
 .mormont.gamer-network.net
 .morning-croissant.fr
 .morning-maps.com
@@ -63032,6 +63036,7 @@ zzxosget.com
 .mxhbkj.cn
 .mxitie.com
 .mxjptfrxqaavdc.com
+.mxlwmp.cn
 .mxm.plipala.com
 .mxmcdn.net
 .mxmrt.com
@@ -64623,6 +64628,7 @@ zzxosget.com
 .nk295.cn
 .nkeo.top
 .nkepulqeetn.com
+.nkevca.cn
 .nkis.nikkei.com
 .nkjiashi.com
 .nkjomdiztdy.com
@@ -72689,6 +72695,7 @@ zzxosget.com
 .qhqofqeivtno.com
 .qhrtkr.murrano.pl
 .qhruisen.cn
+.qhsihvjmut.com
 .qhsyg.top
 .qhuade.com
 .qhuik.com
@@ -75484,6 +75491,7 @@ zzxosget.com
 .roredi.com
 .rorer.ru
 .rorgoops.com
+.rorlsblm.cyou
 .rorserdy.com
 .ros-infonews.ru
 .ros3d4dbs3px.salud-masculina.info
@@ -77496,6 +77504,7 @@ zzxosget.com
 .sdmwklnd.com
 .sdn.kugou.com
 .sdn.scset.com.cn
+.sdnc.top
 .sdnihyxlqiws.com
 .sdnpggwbkprsndt.xyz
 .sdofp9c.cddrhx.cn
@@ -78458,6 +78467,7 @@ zzxosget.com
 .sgg.southcn.com
 .sghehllds.com
 .sghmho.com
+.sghmvum.cn
 .sglyd.cn
 .sgmnt.ticketswap.com
 .sgnxcn.omni7.jp
@@ -87723,6 +87733,7 @@ zzxosget.com
 .thapsooz.net
 .thaqyl.mediamarkt.nl
 .tharbadir.com
+.thathechoxe.com
 .thathersevengid.ru
 .thathislitt.ru
 .thatitgivesm.biz
@@ -90268,6 +90279,7 @@ zzxosget.com
 .tracker.thinkindot.com
 .tracker.timesgroup.com
 .tracker.tiu.ru
+.tracker.tolvnow.com
 .tracker.tubecj.com
 .tracker.tv.sohu.com
 .tracker.twenga.pl
@@ -93977,6 +93989,7 @@ zzxosget.com
 .visioncriticalpanels.com
 .visionsage.com
 .visistat.com
+.visit-prod-us.occa.ocs.oraclecloud.com
 .visit.asb.co.nz
 .visit.dealspwn.com
 .visit.donateblood.com.au
@@ -94425,6 +94438,7 @@ zzxosget.com
 .vps.gcx3.cn
 .vpsite.ru
 .vpsjoy.waschbaer.nl
+.vptadv.com
 .vptbn.com
 .vptjabo.cn
 .vptlrn.sportspar.de
@@ -99771,6 +99785,7 @@ zzxosget.com
 .yftkzg.footballleagueworld.co.uk
 .yftkzg.thisisfutbol.com
 .yfum.com
+.yfunkgk.cn
 .yfupfhqxmwvu.com
 .yfxixi.com
 .yfycy.com
@@ -101742,6 +101757,7 @@ zzxosget.com
 .zoupsudy.com
 .zoutubephaid.com
 .zouxinyan.xyz
+.zovgdpj.cn
 .zovihutum.com
 .zowinvn.vip
 .zoxetijy.xyz
@@ -102000,6 +102016,7 @@ zzxosget.com
 .zxvvcvd.cn
 .zxw51.com
 .zxwdw.com
+.zxwnlg.com
 .zxxds.net
 .zxxtkrkzfyy3.com
 .zxxvns.f64.ro

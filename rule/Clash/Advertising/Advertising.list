@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-15 02:26:40
+# UPDATED: 2022-08-15 14:24:05
 # DOMAIN: 14149
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 73780
+# DOMAIN-SUFFIX: 73796
 # IP-CIDR: 240
-# TOTAL: 88246
+# TOTAL: 88262
 DOMAIN,ad.xy2013.cn
 DOMAIN,ads.play.cbsi.video
 DOMAIN,ads.reembed.com
@@ -15076,6 +15076,7 @@ DOMAIN-SUFFIX,5fcc5e7d92.com
 DOMAIN-SUFFIX,5glyqw.com
 DOMAIN-SUFFIX,5gustis.xyz
 DOMAIN-SUFFIX,5h3oyhv838.com
+DOMAIN-SUFFIX,5htftu.com
 DOMAIN-SUFFIX,5ibanma.com
 DOMAIN-SUFFIX,5idoy8p7.live
 DOMAIN-SUFFIX,5ijs.vip
@@ -15193,6 +15194,7 @@ DOMAIN-SUFFIX,666752.xyz
 DOMAIN-SUFFIX,666753.xyz
 DOMAIN-SUFFIX,666754.xyz
 DOMAIN-SUFFIX,666755.xyz
+DOMAIN-SUFFIX,666757.xyz
 DOMAIN-SUFFIX,6667778882021.site
 DOMAIN-SUFFIX,666video.asia
 DOMAIN-SUFFIX,668kbet.com
@@ -33055,6 +33057,7 @@ DOMAIN-SUFFIX,gl-cash.com
 DOMAIN-SUFFIX,glacah.com
 DOMAIN-SUFFIX,gladcrumple.com
 DOMAIN-SUFFIX,gladiol9us10.com
+DOMAIN-SUFFIX,glaichid.net
 DOMAIN-SUFFIX,glaimtug.com
 DOMAIN-SUFFIX,glainsee.com
 DOMAIN-SUFFIX,glaivoun.net
@@ -33131,6 +33134,7 @@ DOMAIN-SUFFIX,globalinteractive.com
 DOMAIN-SUFFIX,globalismedia.com
 DOMAIN-SUFFIX,globalnews247.net
 DOMAIN-SUFFIX,globalsiteanalytics.com
+DOMAIN-SUFFIX,globalso.biz
 DOMAIN-SUFFIX,globalstars.ru
 DOMAIN-SUFFIX,globalsuccessclub.com
 DOMAIN-SUFFIX,globaltakeoff.net
@@ -35849,6 +35853,7 @@ DOMAIN-SUFFIX,imgxxx.shunxincar.cn
 DOMAIN-SUFFIX,imhd.io
 DOMAIN-SUFFIX,imho.ru
 DOMAIN-SUFFIX,imiclk.com
+DOMAIN-SUFFIX,imilroshoors.com
 DOMAIN-SUFFIX,imim.me
 DOMAIN-SUFFIX,imimtord.net
 DOMAIN-SUFFIX,iminatedm.com
@@ -37929,6 +37934,7 @@ DOMAIN-SUFFIX,kidslovemartialartsomahane.com
 DOMAIN-SUFFIX,kieden.com
 DOMAIN-SUFFIX,kiezohky.xyz
 DOMAIN-SUFFIX,kihoadoa.com
+DOMAIN-SUFFIX,kihudevo.pro
 DOMAIN-SUFFIX,kijkxx.com
 DOMAIN-SUFFIX,kikibobo.top
 DOMAIN-SUFFIX,kikugrotzen.com
@@ -41793,6 +41799,7 @@ DOMAIN-SUFFIX,mntzrlt.net
 DOMAIN-SUFFIX,mnutan.fr
 DOMAIN-SUFFIX,mnuy56.site
 DOMAIN-SUFFIX,mnvde.com
+DOMAIN-SUFFIX,mnvrwq.xyz
 DOMAIN-SUFFIX,mnwor.xuanlishi.com
 DOMAIN-SUFFIX,mnyh.fun
 DOMAIN-SUFFIX,mo.5.p2l.info
@@ -42071,6 +42078,7 @@ DOMAIN-SUFFIX,morfine.vip
 DOMAIN-SUFFIX,morgdm.ru
 DOMAIN-SUFFIX,mori.ink
 DOMAIN-SUFFIX,moriceprich.com
+DOMAIN-SUFFIX,morlsbli.cyou
 DOMAIN-SUFFIX,morning-croissant.fr
 DOMAIN-SUFFIX,morning-maps.com
 DOMAIN-SUFFIX,morninguglychampionship.com
@@ -42462,6 +42470,7 @@ DOMAIN-SUFFIX,mxcdn.net
 DOMAIN-SUFFIX,mxcount.com
 DOMAIN-SUFFIX,mxeinvwitjitk.com
 DOMAIN-SUFFIX,mxhbkj.cn
+DOMAIN-SUFFIX,mxlwmp.cn
 DOMAIN-SUFFIX,mxmcdn.net
 DOMAIN-SUFFIX,mxowrwb.cn
 DOMAIN-SUFFIX,mxptint.net
@@ -47929,6 +47938,7 @@ DOMAIN-SUFFIX,qhlmb.com
 DOMAIN-SUFFIX,qhnwj.com
 DOMAIN-SUFFIX,qhonzpl.cn
 DOMAIN-SUFFIX,qhqofqeivtno.com
+DOMAIN-SUFFIX,qhsihvjmut.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,qhytkj.xyz
 DOMAIN-SUFFIX,qian-tao.xyz
@@ -48082,6 +48092,7 @@ DOMAIN-SUFFIX,qqjar.ru
 DOMAIN-SUFFIX,qqjmbj.com
 DOMAIN-SUFFIX,qqlogo.qq.com
 DOMAIN-SUFFIX,qqmilk.ru
+DOMAIN-SUFFIX,qqpwhge.cn
 DOMAIN-SUFFIX,qqq-www-987.site
 DOMAIN-SUFFIX,qqq123987.site
 DOMAIN-SUFFIX,qqqmmm.top
@@ -50506,6 +50517,7 @@ DOMAIN-SUFFIX,sdklogs.avocarrot.com
 DOMAIN-SUFFIX,sdljvrf.cn
 DOMAIN-SUFFIX,sdmfyqkghzedvx.com
 DOMAIN-SUFFIX,sdmot.ru
+DOMAIN-SUFFIX,sdnc.top
 DOMAIN-SUFFIX,sdnpggwbkprsndt.xyz
 DOMAIN-SUFFIX,sdofp9c.cddrhx.cn
 DOMAIN-SUFFIX,sdqinghong.cn
@@ -54351,6 +54363,7 @@ DOMAIN-SUFFIX,thanku.page
 DOMAIN-SUFFIX,thanosofcos5.com
 DOMAIN-SUFFIX,thapsooz.net
 DOMAIN-SUFFIX,tharbadir.com
+DOMAIN-SUFFIX,thathechoxe.com
 DOMAIN-SUFFIX,thathersevengid.ru
 DOMAIN-SUFFIX,thatitgivesm.biz
 DOMAIN-SUFFIX,thatohegly.com
@@ -58144,6 +58157,7 @@ DOMAIN-SUFFIX,vpnrequired.com
 DOMAIN-SUFFIX,vppvp.com
 DOMAIN-SUFFIX,vprza.com
 DOMAIN-SUFFIX,vpsite.ru
+DOMAIN-SUFFIX,vptadv.com
 DOMAIN-SUFFIX,vptbn.com
 DOMAIN-SUFFIX,vptjabo.cn
 DOMAIN-SUFFIX,vpvbojamkoxo.com
@@ -60665,6 +60679,7 @@ DOMAIN-SUFFIX,xoliter.com
 DOMAIN-SUFFIX,xoomer.alice.it
 DOMAIN-SUFFIX,xoor.ru
 DOMAIN-SUFFIX,xopcdnhjf.com
+DOMAIN-SUFFIX,xorlsblw.cyou
 DOMAIN-SUFFIX,xoso12345.com
 DOMAIN-SUFFIX,xoso5678.com
 DOMAIN-SUFFIX,xoso6.com
@@ -61119,6 +61134,7 @@ DOMAIN-SUFFIX,yheyg94gjv2o.ru
 DOMAIN-SUFFIX,yhhbtavgpuo.com
 DOMAIN-SUFFIX,yhhls.com
 DOMAIN-SUFFIX,yhhtmdvuubnbtbp.com
+DOMAIN-SUFFIX,yhilnc.cn
 DOMAIN-SUFFIX,yhjzg.cn
 DOMAIN-SUFFIX,yhkiain.cn
 DOMAIN-SUFFIX,yhkt.online
@@ -62142,6 +62158,7 @@ DOMAIN-SUFFIX,zouloafi.net
 DOMAIN-SUFFIX,zouphail.com
 DOMAIN-SUFFIX,zoutubephaid.com
 DOMAIN-SUFFIX,zouxinyan.xyz
+DOMAIN-SUFFIX,zovgdpj.cn
 DOMAIN-SUFFIX,zowinvn.vip
 DOMAIN-SUFFIX,zoxetijy.xyz
 DOMAIN-SUFFIX,zozocash.biz
@@ -81465,7 +81482,6 @@ DOMAIN-SUFFIX,metrics.health.com
 DOMAIN-SUFFIX,metrics.hemlibra.com
 DOMAIN-SUFFIX,metrics.hmhco.com
 DOMAIN-SUFFIX,metrics.humirapro.com
-DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.ireport.com
 DOMAIN-SUFFIX,metrics.jeppesen.com
 DOMAIN-SUFFIX,metrics.jetblue.com
