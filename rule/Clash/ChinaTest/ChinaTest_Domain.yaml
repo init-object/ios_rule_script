@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-15 14:25:50
+# UPDATED: 2022-08-17 02:32:38
 # DOMAIN: 88
 # DOMAIN-KEYWORD: 10
 # DOMAIN-SUFFIX: 66260
@@ -232,6 +232,7 @@ payload:
   - '+.cnbetacdn.com'
   - '+.cnlang.org'
   - '+.com-hs-hkdy.com'
+  - '+.coolapk.com'
   - '+.cootekservice.com'
   - '+.csdn.net'
   - '+.ctrip.com'
@@ -17028,7 +17029,6 @@ payload:
   - '+.cool80.com'
   - '+.coolact.net'
   - '+.coolaf.com'
-  - '+.coolapk.com'
   - '+.coolapkmarket.com'
   - '+.coolapkmarket.net'
   - '+.coolbook.cc'

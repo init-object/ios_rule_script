@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-15 14:24:03
+# UPDATED: 2022-08-17 02:31:09
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14149
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 73796
+# DOMAIN-SUFFIX: 73827
 # IP-CIDR: 240
 # URL-REGEX: 301
-# TOTAL: 88563
+# TOTAL: 88594
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -15890,6 +15890,7 @@ zzxosget.com
 .666754.xyz
 .666755.xyz
 .666757.xyz
+.666758.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -21434,6 +21435,7 @@ zzxosget.com
 .adv.neverbuy.com
 .adv.nexthardware.com
 .adv.pilseta24.lv
+.adv.r7.com
 .adv.s8bbs.com
 .adv.sec.intl.miui.com
 .adv.sec.miui.com
@@ -22754,6 +22756,7 @@ zzxosget.com
 .am.6park.com
 .am.belambra.com
 .am.g.ireader.com
+.am.i.mullvad.net
 .am.streamdj.ru
 .am.szhome.com
 .am.titsx.com
@@ -24324,6 +24327,7 @@ zzxosget.com
 .artbluesea.xyz
 .artedu.pw
 .artefact.is
+.artemis-cdn.ocdn.eu
 .artemisaffiliates.com
 .arteradio.fr
 .artfin.club
@@ -27690,6 +27694,7 @@ zzxosget.com
 .boringberry.com
 .boringcoat.com
 .boriskink.com
+.borlsbla.cyou
 .bornprix.fr
 .boroniasunback.com
 .bororango.com
@@ -32121,6 +32126,7 @@ zzxosget.com
 .coremotives.com
 .corkery.biz
 .corkycrazy.com
+.corlsblt.cyou
 .cornerbut.com
 .cornplus.cn
 .coro.benbaisteel.com
@@ -38848,7 +38854,6 @@ zzxosget.com
 .events.splash-screen.net
 .events.split.io
 .events.splunk.com
-.events.statsigapi.net
 .events.strategic-i.com
 .events.textme-app.com
 .events.tubecup.org
@@ -40050,6 +40055,7 @@ zzxosget.com
 .fineoffer.net
 .finestflirtcudgel.com
 .fingahvf.top
+.fingerprinter-production.herokuapp.com
 .fingsmelis.pro
 .finized.co
 .finkelorcine.com
@@ -43640,6 +43646,7 @@ zzxosget.com
 .gzmzts.com
 .gznsyh.com
 .gznwn.com
+.gznxodg.cn
 .gzppit.com
 .gzqmcd.com
 .gzqswl.cn
@@ -47689,6 +47696,7 @@ zzxosget.com
 .itaoxiaoshuo.com
 .itbeginner.fr
 .itblisseyer.com
+.itbwq.xyz
 .itcameruptr.com
 .itcgin.net
 .itchaxun.cn
@@ -49144,6 +49152,7 @@ zzxosget.com
 .jytc.xyz
 .jytitenu.com
 .jytjw.com
+.jyuyjxx.cn
 .jywangluo.top
 .jywigigu.com
 .jyzae.cn
@@ -49721,6 +49730,7 @@ zzxosget.com
 .kirgo.at
 .kirilaboola.com
 .kirnscraps.com
+.kisafnid.space
 .kishypece.com
 .kiss.blockplus.cc
 .kissmetrics.com
@@ -50287,6 +50297,7 @@ zzxosget.com
 .kvexx.com
 .kvezz.com
 .kvhaa.com
+.kvhcc.com
 .kvhfff.top
 .kvhttt.top
 .kvidcq.com
@@ -54965,6 +54976,7 @@ zzxosget.com
 .metanetwork.com
 .metaprofit.net
 .metatestruck.com
+.metaversn.site
 .metavertising.com
 .metavertizer.com
 .metcoc5cm.clarent.com
@@ -56606,6 +56618,7 @@ zzxosget.com
 .mrpjcd.tensunits.com
 .mrqpcy.biggreensmile.nl
 .mrrvmp.com
+.mrshw.mobi
 .mrskincash.com
 .mrtbbnr.com
 .mrtpcfegryfgqtbuvksbaebneewer.com
@@ -58203,6 +58216,7 @@ zzxosget.com
 .nk295.cn
 .nkeo.top
 .nkepulqeetn.com
+.nkevca.cn
 .nkis.nikkei.com
 .nkjiashi.com
 .nkjwmb.com
@@ -59264,6 +59278,7 @@ zzxosget.com
 .ofenop.ru
 .offaces-butional.com
 .offclaydolon.com
+.offdeck.telkomsel.com
 .offer.camp
 .offer.slgnt.eu
 .offerforge.com
@@ -65267,6 +65282,7 @@ zzxosget.com
 .rb.sport-express.ru
 .rbcdn.com
 .rbck.st3pst3p.com
+.rbgfxxt.cn
 .rbign.cn
 .rbioclv.cn
 .rblxgeionyqax.com
@@ -66717,6 +66733,7 @@ zzxosget.com
 .roredi.com
 .rorer.ru
 .rorgoops.com
+.rorlsblm.cyou
 .rorserdy.com
 .ros-infonews.ru
 .ros3d4dbs3px.salud-masculina.info
@@ -68952,6 +68969,7 @@ zzxosget.com
 .sgftrrs.com
 .sgg.southcn.com
 .sghmho.com
+.sghmvum.cn
 .sglyd.cn
 .sgmnt.ticketswap.com
 .sgnxcn.omni7.jp
@@ -73419,6 +73437,7 @@ zzxosget.com
 .statsforever.com
 .statsie.com
 .statsig.com
+.statsigapi.net
 .statsinsight.com
 .statsit.com
 .statsmachine.com
@@ -74840,6 +74859,7 @@ zzxosget.com
 .taigamesunwin.vin
 .taigo88vn.com
 .taigrooh.net
+.taiheian.top
 .taiiwin.club
 .taiiwinclub.cc
 .taiiwinclub.vip
@@ -77663,6 +77683,7 @@ zzxosget.com
 .tracker.thinkindot.com
 .tracker.timesgroup.com
 .tracker.tiu.ru
+.tracker.tolvnow.com
 .tracker.tubecj.com
 .tracker.tv.sohu.com
 .tracker.twenga.pl
@@ -78981,6 +79002,7 @@ zzxosget.com
 .tumgcmu.cn
 .tummiarunzpf.com
 .tummyunmovedfetch.com
+.tumnxwvd.ink
 .tumri.net
 .tumultmarten.com
 .tumuta.xyz
@@ -80862,6 +80884,7 @@ zzxosget.com
 .vgo.vegaoo.pt
 .vgo.vegaooparty.com
 .vgo.vegaoopro.com
+.vgrovkb.cn
 .vgs-collect-keeper.apps.verygood.systems
 .vgw35hwr4w6x.com
 .vh79.com
@@ -81225,6 +81248,7 @@ zzxosget.com
 .visioncriticalpanels.com
 .visionsage.com
 .visistat.com
+.visit-prod-us.occa.ocs.oraclecloud.com
 .visit.asb.co.nz
 .visit.dealspwn.com
 .visit.geocities.com
@@ -81715,6 +81739,7 @@ zzxosget.com
 .vulgartaivert.website
 .vuliglsf.space
 .vulturechinamaternity.com
+.vumnxwvf.ink
 .vungle.cn
 .vungle.com
 .vupload.duowan.com
@@ -85276,6 +85301,7 @@ zzxosget.com
 .xlog.tiktokv.com
 .xlounge.ru
 .xlow.xyz
+.xlrdr.com
 .xlsschina15.net
 .xlviiirdr.com
 .xlviirdr.com
@@ -85426,6 +85452,7 @@ zzxosget.com
 .xpicvrubu.xyz
 .xpicw.top
 .xpizjd4.cn
+.xpj08.oss-cn-beijing.aliyuncs.com
 .xpj1.net
 .xpj2.net
 .xpj3.net
@@ -85496,6 +85523,7 @@ zzxosget.com
 .xshellcn.com
 .xshijie.xyz
 .xshop3.ru
+.xsjh001.xyz
 .xsjh002.xyz
 .xsjyun.cn
 .xsrs.com
@@ -86038,6 +86066,7 @@ zzxosget.com
 .yftkzg.footballleagueworld.co.uk
 .yftkzg.thisisfutbol.com
 .yfum.com
+.yfunkgk.cn
 .yfupfhqxmwvu.com
 .yfxixi.com
 .yfxpcode.m.gxwztv.com
@@ -87527,6 +87556,7 @@ zzxosget.com
 .zlajnpfqgsleo.com
 .zlauk.cn
 .zlfgedpuxrbpgm.com
+.zlgame.top
 .zlhoteckelinie.wz.cz
 .zli.wang
 .zlin.fun
@@ -87844,6 +87874,7 @@ zzxosget.com
 .zxucii.com
 .zxvvcvd.cn
 .zxwdw.com
+.zxwnlg.com
 .zxxds.net
 .zxxtkrkzfyy3.com
 .zxycxk.love

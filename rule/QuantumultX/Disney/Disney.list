@@ -1,11 +1,11 @@
 # NAME: Disney
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-07 02:27:45
+# UPDATED: 2022-08-17 02:32:25
 # HOST: 1
-# HOST-SUFFIX: 159
+# HOST-SUFFIX: 161
 # USER-AGENT: 1
-# TOTAL: 161
+# TOTAL: 163
 HOST,cdn.registerdisney.go.com,Disney
 HOST-SUFFIX,20thcenturystudios.com.au,Disney
 HOST-SUFFIX,20thcenturystudios.com.br,Disney
@@ -87,6 +87,7 @@ HOST-SUFFIX,disneyinternational.com,Disney
 HOST-SUFFIX,disneyinternationalhd.com,Disney
 HOST-SUFFIX,disneyjunior.com,Disney
 HOST-SUFFIX,disneyjuniortreataday.com,Disney
+HOST-SUFFIX,disneylandparis.com,Disney
 HOST-SUFFIX,disneylatino.com,Disney
 HOST-SUFFIX,disneymagicmoments.co.il,Disney
 HOST-SUFFIX,disneymagicmoments.co.uk,Disney
@@ -118,6 +119,7 @@ HOST-SUFFIX,disneytickets.co.uk,Disney
 HOST-SUFFIX,disneyturkiye.com.tr,Disney
 HOST-SUFFIX,disneytvajobs.com,Disney
 HOST-SUFFIX,disneyworld-go.com,Disney
+HOST-SUFFIX,dlp-media.com,Disney
 HOST-SUFFIX,dmed.technology,Disney
 HOST-SUFFIX,dssott.com,Disney
 HOST-SUFFIX,dtci.co,Disney

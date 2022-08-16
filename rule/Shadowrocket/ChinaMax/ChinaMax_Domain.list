@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-16 02:32:18
+# UPDATED: 2022-08-17 02:33:32
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69087
-# IP-CIDR: 10510
+# DOMAIN-SUFFIX: 69093
+# IP-CIDR: 10506
 # USER-AGENT: 65
-# TOTAL: 79760
+# TOTAL: 79762
 265.com
 adservice.google.com
 analytics.strava.com
@@ -23742,6 +23742,7 @@ www4-static.gog-statics.com
 .flyine.net
 .flyme.cn
 .flyme.com
+.flyme.net
 .flymeos.com
 .flyml.net
 .flymobi.biz
@@ -40168,6 +40169,7 @@ www4-static.gog-statics.com
 .mbgo.com
 .mbinary.xyz
 .mbldbb.com
+.mblu.com
 .mbokee.com
 .mbsky.com
 .mbtsg.com
@@ -40390,6 +40392,7 @@ www4-static.gog-statics.com
 .meike-shoes.com
 .meike15.com
 .meikeda.net
+.meiklife.cn
 .meiku123.com
 .meilanfangdajuyuan.org
 .meilecui.com
@@ -40498,6 +40501,7 @@ www4-static.gog-statics.com
 .meizu.com
 .meizu.com.hk
 .meizu.net
+.meizuapi.com
 .mejoybaby.com
 .meke-shanghai.com
 .meke8.com
@@ -41226,6 +41230,7 @@ www4-static.gog-statics.com
 .mki7rxcwmfe7c.com
 .mkjump.com
 .mklimg.com
+.mklink.com.cn
 .mknn.net
 .mkpush.com
 .mkshell.com
@@ -42376,6 +42381,7 @@ www4-static.gog-statics.com
 .mzres.com
 .mzsky.cc
 .mzsmn.com
+.mzssp.cn
 .mzstatic.com
 .mzsvn.com
 .mztgame.com

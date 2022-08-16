@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2022-08-05 22:38:13
+desc: 最后更新时间 2022-08-17 02:34:14
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 406
-# mitm: 353
+# reject: 408
+# mitm: 355
 # force-http-engine-hosts: 6
-# total: 765
+# total: 769
 
 
 
@@ -14,6 +14,8 @@ desc: 最后更新时间 2022-08-05 22:38:13
 http:
   rewrite:
     - ^https:\/\/god\.gameyw\.netease\.com\/v1\/ad\/.* - reject
+    - ^https?://cdn\.fivecdm\.com/cr/ - reject
+    - ^https?://ssp\.dzh\.com\.cn/v2api/adgroupjson - reject
     - ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)(:\d+)?\/V\d\/splash\/getSplashV\d\.action$ - reject
     - ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d):\d+/xygj-config-api\/queryData - reject
     - ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d):\d+\/allOne\.php\?ad_name - reject
@@ -565,6 +567,7 @@ http:
     - "ccsp-egmas.sf-express.com"
     - "cdn.api.fotoable.com"
     - "cdn.dianshihome.com"
+    - "cdn.fivecdm.com"
     - "cdn.moji.com"
     - "cdnfile1.msstatic.com"
     - "channel.beitaichufang.com"
@@ -731,6 +734,7 @@ http:
     - "sp.kaola.com"
     - "ss0.bdstatic.com"
     - "ssl.kohsocialapp.qq.com"
+    - "ssp.dzh.com.cn"
     - "static.vuevideo.net"
     - "static1.keepcdn.com"
     - "status.boohee.com"

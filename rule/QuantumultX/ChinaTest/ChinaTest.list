@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-15 14:25:49
+# UPDATED: 2022-08-17 02:32:37
 # HOST: 88
 # HOST-KEYWORD: 10
 # HOST-SUFFIX: 66260
@@ -232,6 +232,7 @@ HOST-SUFFIX,cnbeta.com,ChinaTest
 HOST-SUFFIX,cnbetacdn.com,ChinaTest
 HOST-SUFFIX,cnlang.org,ChinaTest
 HOST-SUFFIX,com-hs-hkdy.com,ChinaTest
+HOST-SUFFIX,coolapk.com,ChinaTest
 HOST-SUFFIX,cootekservice.com,ChinaTest
 HOST-SUFFIX,csdn.net,ChinaTest
 HOST-SUFFIX,ctrip.com,ChinaTest
@@ -17028,7 +17029,6 @@ HOST-SUFFIX,cool-play.com,ChinaTest
 HOST-SUFFIX,cool80.com,ChinaTest
 HOST-SUFFIX,coolact.net,ChinaTest
 HOST-SUFFIX,coolaf.com,ChinaTest
-HOST-SUFFIX,coolapk.com,ChinaTest
 HOST-SUFFIX,coolapkmarket.com,ChinaTest
 HOST-SUFFIX,coolapkmarket.net,ChinaTest
 HOST-SUFFIX,coolbook.cc,ChinaTest

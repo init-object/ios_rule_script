@@ -1,84 +1,67 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-08-16 02:30:10
-! Total: 102136
+! Updated: 2022-08-17 02:31:52
+! Total: 102161
 
 
-||3p-geo.yahoo.com^
-||3p-udc.yahoo.com^
+||21fsdf.com^
 ||46186911.vtt^
+||666759.xyz^
 ||80055404.vtt^
 ||absurdapple.com^
-||adfox.yandex.ru^
+||accentneglectporter.com^
 ||adfstat.yandex.ru^
 ||ads.yahoo.com^
 ||ads.youtube.com^
-||adsdk.yandex.ru^
-||am.i.mullvad.net^
-||an.yandex.ru^
 ||anxiousapples.com^
 ||api.sec.miui.com^
 ||app.ssp.yahoo.com^
 ||appboy-images.com^
-||apple.www.letv.com^
 ||applebarq.com^
 ||applequan.com^
 ||applescringe.com^
-||awaps.yandex.ru^
 ||awsync.yandex.ru^
-||bats.video.yahoo.com^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
-||bs.yandex.ru^
-||collector2c.zhihuishu.com^
-||cookiex.ngd.yahoo.com^
 ||crypta.js^
 ||d1stxfv94hrhia.cloudfront^
+||disurm.com^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||efficientapplesimulator.com^
-||fingerprinter-production.herokuapp.com^
+||ehprnuo.cn^
 ||fpb1.apple886.com^
-||ganon.yahoo.com^
-||geo.yahoo.com^
-||gznxodg.cn^
 ||https-apple.com^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
-||informer.yandex.ru^
-||itbwq.xyz^
-||jill.fc.yahoo.com^
 ||jpaasne.e.shifen.com^
-||jyuyjxx.cn^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
-||mc.yandex.ru^
 ||mediaappletree.com^
 ||meitaolianmeng.ltd^
-||metaversn.site^
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
-||mrshw.mobi^
-||nol.yahoo.com^
-||offdeck.telkomsel.com^
+||mpaphqjb.com^
+||mtqdji.cn^
 ||pr.comet.yahoo.com^
-||pv.sohu.com^
-||rbgfxxt.cn^
+||qorlsbls.cyou^
 ||rrf.fat1domain1^
+||ruogesfshygsj.com^
+||samazd.com^
 ||shackapple.com^
+||sisafnib.space^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
-||supportmetrics.apple.com^
-||test.vast^
+||sxbexrv.cn^
+||tanyp.xyz^
 ||theapple.site^
-||tumnxwvd.ink^
-||vgrovkb.cn^
-||visit.webhosting.yahoo.com^
-||vumnxwvf.ink^
+||tierzf.xyz^
+||vivachina.co^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||xsjh001.xyz^
+||yd1s.top^
 ||youtube.local^
-||zlgame.top^
+||zaiaplb.cn^
+||zzyl.mobi^
 ||0.code.cotsta.ru^
 ||0001.best^
 ||000123456789.online^
@@ -1115,6 +1098,7 @@
 ||666754.xyz^
 ||666755.xyz^
 ||666757.xyz^
+||666758.xyz^
 ||6667778882021.site^
 ||666video.asia^
 ||668kbet.com^
@@ -4587,6 +4571,7 @@
 ||adv.neverbuy.com^
 ||adv.nexthardware.com^
 ||adv.pilseta24.lv^
+||adv.r7.com^
 ||adv.strategy.it^
 ||adv.thuvienphapluat.vn^
 ||adv.virgilio.it^
@@ -5605,6 +5590,7 @@
 ||am-display.com^
 ||am-investor.ru^
 ||am-schedule.ru^
+||am.i.mullvad.net^
 ||am.streamdj.ru^
 ||am.titsx.com^
 ||am10.ru^
@@ -6274,6 +6260,7 @@
 ||art-offer.com^
 ||artbluesea.xyz^
 ||artefact.is^
+||artemis-cdn.ocdn.eu^
 ||artemisaffiliates.com^
 ||arteradio.fr^
 ||artfut.com^
@@ -8744,6 +8731,7 @@
 ||boremgmxebra.com^
 ||borgach.com^
 ||boriskink.com^
+||borlsbla.cyou^
 ||bornprix.fr^
 ||boroniasunback.com^
 ||bororango.com^
@@ -11705,6 +11693,7 @@
 ||coremotives.com^
 ||corkery.biz^
 ||corkycrazy.com^
+||corlsblt.cyou^
 ||cornerbut.com^
 ||corona999.com^
 ||coronisabv.com^
@@ -16088,7 +16077,6 @@
 ||events.lbesecapi.com^
 ||events.niit-mts.com^
 ||events.sd-nbb.de^
-||events.statsigapi.net^
 ||events.textme-app.com^
 ||events.tvtime.com^
 ||events.virtusize.jp^
@@ -16934,6 +16922,7 @@
 ||finema.net^
 ||fineoffer.net^
 ||finestflirtcudgel.com^
+||fingerprinter-production.herokuapp.com^
 ||fingsmelis.pro^
 ||finized.co^
 ||finkelorcine.com^
@@ -19425,6 +19414,7 @@
 ||gzhying1.cn^
 ||gzlmknzeifjfyp.com^
 ||gznwn.com^
+||gznxodg.cn^
 ||gzppit.com^
 ||gzqswl.cn^
 ||gzts188.com^
@@ -22050,6 +22040,7 @@
 ||italianadirectory.com^
 ||itbeginner.fr^
 ||itblisseyer.com^
+||itbwq.xyz^
 ||itcameruptr.com^
 ||itcgin.net^
 ||itchaxun.cn^
@@ -22996,6 +22987,7 @@
 ||jyshavefu.com^
 ||jytc.xyz^
 ||jytitenu.com^
+||jyuyjxx.cn^
 ||jywangluo.top^
 ||jywigigu.com^
 ||jyzae.cn^
@@ -23428,6 +23420,7 @@
 ||kirgeemo.com^
 ||kirgo.at^
 ||kirnscraps.com^
+||kisafnid.space^
 ||kishypece.com^
 ||kissmetrics.io^
 ||kissmyads.biz^
@@ -23844,6 +23837,7 @@
 ||kvexx.com^
 ||kvezz.com^
 ||kvhaa.com^
+||kvhcc.com^
 ||kvhfff.top^
 ||kvhttt.top^
 ||kvidcq.com^
@@ -26688,6 +26682,7 @@
 ||metanetwork.com^
 ||metaprofit.net^
 ||metatestruck.com^
+||metaversn.site^
 ||metavertising.com^
 ||metavertizer.com^
 ||metcoc5cm.clarent.com^
@@ -27614,6 +27609,7 @@
 ||mrnpwuere.com^
 ||mrpecvqw.com^
 ||mrrvmp.com^
+||mrshw.mobi^
 ||mrskincash.com^
 ||mrtbbnr.com^
 ||mrtpcfegryfgqtbuvksbaebneewer.com^
@@ -28799,6 +28795,7 @@
 ||njygp.cn^
 ||njzhlaw.cn^
 ||nkepulqeetn.com^
+||nkevca.cn^
 ||nkis.nikkei.com^
 ||nkjiashi.com^
 ||nklrfqgz.com^
@@ -29584,6 +29581,7 @@
 ||ofenop.ru^
 ||offaces-butional.com^
 ||offclaydolon.com^
+||offdeck.telkomsel.com^
 ||offer.camp^
 ||offerforge.com^
 ||offerforge.net^
@@ -33813,6 +33811,7 @@
 ||rb.sport-express.ru^
 ||rbcdn.com^
 ||rbck.st3pst3p.com^
+||rbgfxxt.cn^
 ||rbioclv.cn^
 ||rblxgeionyqax.com^
 ||rbmcash.com^
@@ -34945,6 +34944,7 @@
 ||ropx.xyz^
 ||rorer.ru^
 ||rorgoops.com^
+||rorlsblm.cyou^
 ||rorserdy.com^
 ||ros-infonews.ru^
 ||rosafun.com^
@@ -36288,6 +36288,7 @@
 ||sgdgh15.com^
 ||sgdmobile.com^
 ||sghmho.com^
+||sghmvum.cn^
 ||sglyd.cn^
 ||sgood.ru^
 ||sgphctileh-a.akamaihd.net^
@@ -38139,6 +38140,7 @@
 ||statsforever.com^
 ||statsie.com^
 ||statsig.com^
+||statsigapi.net^
 ||statsinsight.com^
 ||statsit.com^
 ||statsmachine.com^
@@ -39052,6 +39054,7 @@
 ||taigamesunwin.vin^
 ||taigo88vn.com^
 ||taigrooh.net^
+||taiheian.top^
 ||taiiwin.club^
 ||taiiwinclub.cc^
 ||taiiwinclub.vip^
@@ -40721,6 +40724,7 @@
 ||tracker.samplicio.us^
 ||tracker.stats.in.th^
 ||tracker.thichxemphim.net^
+||tracker.tolvnow.com^
 ||tracker.twenga.pl^
 ||tracker.vgame.us^
 ||tracker.washtimes.com^
@@ -41233,6 +41237,7 @@
 ||tumgcmu.cn^
 ||tummiarunzpf.com^
 ||tummyunmovedfetch.com^
+||tumnxwvd.ink^
 ||tumri.net^
 ||tumultmarten.com^
 ||tumuta.xyz^
@@ -42570,6 +42575,7 @@
 ||vggdaiesp.com^
 ||vgijoh.com^
 ||vgimer.cn^
+||vgrovkb.cn^
 ||vgs-collect-keeper.apps.verygood.systems^
 ||vgw35hwr4w6x.com^
 ||vh79.com^
@@ -42882,6 +42888,7 @@
 ||visioncriticalpanels.com^
 ||visionsage.com^
 ||visistat.com^
+||visit-prod-us.occa.ocs.oraclecloud.com^
 ||visit2visit.de^
 ||visitbox.de^
 ||visitingtoelargely.com^
@@ -43262,6 +43269,7 @@
 ||vulgartaivert.website^
 ||vuliglsf.space^
 ||vulturechinamaternity.com^
+||vumnxwvf.ink^
 ||vupulse.com^
 ||vupyepafn.com^
 ||vuryua.ru^
@@ -45574,6 +45582,7 @@
 ||xlog.tiktokv.com^
 ||xlounge.ru^
 ||xlow.xyz^
+||xlrdr.com^
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvludsigt.com^
@@ -45655,6 +45664,7 @@
 ||xpicvrubu.xyz^
 ||xpicw.top^
 ||xpizjd4.cn^
+||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xplnnxx.top^
 ||xplosion.de^
 ||xplusone.com^
@@ -45699,6 +45709,7 @@
 ||xsell.6waves.com^
 ||xshijie.xyz^
 ||xshop3.ru^
+||xsjh001.xyz^
 ||xsjh002.xyz^
 ||xsjyun.cn^
 ||xsrs.com^
@@ -46051,6 +46062,7 @@
 ||yfetyg.com^
 ||yfot.com.cn^
 ||yfum.com^
+||yfunkgk.cn^
 ||yfupfhqxmwvu.com^
 ||yfygs.cn^
 ||yfzbn.com^
@@ -47024,6 +47036,7 @@
 ||zlacraft.com^
 ||zlajnpfqgsleo.com^
 ||zlfgedpuxrbpgm.com^
+||zlgame.top^
 ||zlhoteckelinie.wz.cz^
 ||zli.wang^
 ||zlin.fun^
@@ -47235,6 +47248,7 @@
 ||zxsmxt.com^
 ||zxucii.com^
 ||zxvvcvd.cn^
+||zxwnlg.com^
 ||zxxds.net^
 ||zxycxk.love^
 ||zxyonlybelongstolym.xyz^
@@ -69042,7 +69056,6 @@
 ||660a755deb8829fe.com^
 ||661291.com^
 ||6613167.cn^
-||666758.xyz^
 ||668559.com^
 ||66ce98158e4f402.com^
 ||66wen.com^
@@ -70285,7 +70298,6 @@
 ||adutp.com^
 ||adv.ads2.bid^
 ||adv.herocraft.com^
-||adv.r7.com^
 ||advancelocal-adapter-image-uploads.s3.amazonaws.com^
 ||advantagemedia.com^
 ||advantscivile.club^
@@ -71237,7 +71249,6 @@
 ||arrowkeeperdigest.com^
 ||arshgkcfdhgr.com^
 ||arsoncanteenpicky.com^
-||artemis-cdn.ocdn.eu^
 ||artgullyhep.com^
 ||artibot.ai^
 ||articismstre.fun^
@@ -73425,7 +73436,6 @@
 ||core.bruynzeelkeukens.nl^
 ||coremetrics.carrier.com^
 ||corkysound.com^
-||corlsblt.cyou^
 ||cornfloweramnesty.com^
 ||coroplastsheet.cn^
 ||corover.mobi^
@@ -81659,7 +81669,6 @@
 ||njsbzc.cn^
 ||njtwub.schneider.de^
 ||njzheqkcyr.com^
-||nkevca.cn^
 ||nkjomdiztdy.com^
 ||nkmarxpzacidhn.com^
 ||nkothz.duskin.jp^
@@ -84189,7 +84198,6 @@
 ||root85.com^
 ||rooveysimagi.club^
 ||ropupevi.pro^
-||rorlsblm.cyou^
 ||rosemand.pro^
 ||roseolsen.pro^
 ||rote8mino.com^
@@ -85148,7 +85156,6 @@
 ||sgcsuscnyw.com^
 ||sge-chat.skorpik.ru^
 ||sghehllds.com^
-||sghmvum.cn^
 ||sgsnssdk.com.edgekey.net^
 ||sgzzlojrhivs.com^
 ||shadeslonesome.com^
@@ -88486,7 +88493,6 @@
 ||tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com^
 ||tracker.personizely.net^
 ||tracker.tgbus.com^
-||tracker.tolvnow.com^
 ||tracker.winudf.com^
 ||trackerislive.com^
 ||trackerx.ru^
@@ -89301,7 +89307,6 @@
 ||virginoxygen.com^
 ||virtuagirlhd.com^
 ||virtwishes.site^
-||visit-prod-us.occa.ocs.oraclecloud.com^
 ||visit.donateblood.com.au^
 ||visitimportantly.com^
 ||visitors.winecountrygiftbaskets.com^
@@ -90545,7 +90550,6 @@
 ||yfivoqeh.online^
 ||yfomeimset.com^
 ||yfrbtc.mynet.com^
-||yfunkgk.cn^
 ||yfzcuw.cn^
 ||yfzjhvllsioo.com^
 ||yghua.com^
@@ -90989,7 +90993,6 @@
 ||zxryytzesvn.com^
 ||zxuafe.fashionette.nl^
 ||zxw51.com^
-||zxwnlg.com^
 ||zxxvns.f64.ro^
 ||zyasdj.earthboundtrading.com^
 ||zymbrlgu.cn^
@@ -91015,22 +91018,41 @@
 ||zzsiqn.happyxnature.com^
 ||zzyanhushi.com^
 ||zzz.pissrip.net^
+||3p-geo.yahoo.com^
+||3p-udc.yahoo.com^
 ||ad.kddi-fs.com^
+||adfox.yandex.ru^
+||adsdk.yandex.ru^
 ||adtech-events.bookmyshow.com^
 ||amethyst.zappos.com^
+||an.yandex.ru^
+||apple.www.letv.com^
 ||audit.qiuwen.wiki^
+||awaps.yandex.ru^
+||bats.video.yahoo.com^
+||bs.yandex.ru^
+||collector2c.zhihuishu.com^
+||cookiex.ngd.yahoo.com^
 ||dig.lianjia.com^
 ||dtag.breadfinancial.com^
 ||events-prod.autolist.com^
+||ganon.yahoo.com^
+||geo.yahoo.com^
+||globo-ab.globo.com^
 ||gotie.tunein.com^
+||informer.yandex.ru^
+||jill.fc.yahoo.com^
 ||log.kuwo.cn^
+||mc.yandex.ru^
 ||metrics.apple.com^
 ||metrics.cvs.com^
 ||metrics.tbs.com^
 ||microlearning.att.com^
+||nol.yahoo.com^
 ||ohm-dot-hackster-io.appspot.com^
 ||pages.att.com^
 ||pm.dailykos.com^
+||pv.sohu.com^
 ||pxl.indeed.com^
 ||qm.redbull.com^
 ||reports.tunein.com^
@@ -91040,9 +91062,12 @@
 ||ssp.rambler.ru^
 ||sstats.fintro.be9.kohls.com^
 ||sugar.zhihu.com^
+||supportmetrics.apple.com^
+||test.vast^
 ||tgt.maep.ibm.com^
 ||track.buyma.com^
 ||tracker.affiliate.iqbroker.com^
+||visit.webhosting.yahoo.com^
 ||w3-reporting.reddit.com^
 ||zxvttq.goldapple.ru^
 ||17gouwuba.com^

@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-15 14:24:05
+# UPDATED: 2022-08-17 02:31:11
 # DOMAIN: 14149
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 73796
+# DOMAIN-SUFFIX: 73827
 # IP-CIDR: 240
-# TOTAL: 88262
+# TOTAL: 88293
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -15195,6 +15195,7 @@ opencloud.wostore.cn
 .666754.xyz
 .666755.xyz
 .666757.xyz
+.666758.xyz
 .6667778882021.site
 .666video.asia
 .668kbet.com
@@ -18708,6 +18709,7 @@ opencloud.wostore.cn
 .adv.neverbuy.com
 .adv.nexthardware.com
 .adv.pilseta24.lv
+.adv.r7.com
 .adv.strategy.it
 .adv.thuvienphapluat.vn
 .adv.virgilio.it
@@ -19737,6 +19739,7 @@ opencloud.wostore.cn
 .am-display.com
 .am-investor.ru
 .am-schedule.ru
+.am.i.mullvad.net
 .am.streamdj.ru
 .am.titsx.com
 .am10.ru
@@ -20637,6 +20640,7 @@ opencloud.wostore.cn
 .art-offer.com
 .artbluesea.xyz
 .artefact.is
+.artemis-cdn.ocdn.eu
 .artemisaffiliates.com
 .arteradio.fr
 .artfut.com
@@ -23145,6 +23149,7 @@ opencloud.wostore.cn
 .boremgmxebra.com
 .borgach.com
 .boriskink.com
+.borlsbla.cyou
 .bornprix.fr
 .boroniasunback.com
 .bororango.com
@@ -26169,6 +26174,7 @@ opencloud.wostore.cn
 .coremotives.com
 .corkery.biz
 .corkycrazy.com
+.corlsblt.cyou
 .cornerbut.com
 .corona999.com
 .coronisabv.com
@@ -30595,7 +30601,6 @@ opencloud.wostore.cn
 .events.lbesecapi.com
 .events.niit-mts.com
 .events.sd-nbb.de
-.events.statsigapi.net
 .events.textme-app.com
 .events.tvtime.com
 .events.virtusize.jp
@@ -31448,6 +31453,7 @@ opencloud.wostore.cn
 .finema.net
 .fineoffer.net
 .finestflirtcudgel.com
+.fingerprinter-production.herokuapp.com
 .fingsmelis.pro
 .finized.co
 .finkelorcine.com
@@ -33970,6 +33976,7 @@ opencloud.wostore.cn
 .gzhying1.cn
 .gzlmknzeifjfyp.com
 .gznwn.com
+.gznxodg.cn
 .gzppit.com
 .gzqswl.cn
 .gzts188.com
@@ -36626,6 +36633,7 @@ opencloud.wostore.cn
 .italianadirectory.com
 .itbeginner.fr
 .itblisseyer.com
+.itbwq.xyz
 .itcameruptr.com
 .itcgin.net
 .itchaxun.cn
@@ -37576,6 +37584,7 @@ opencloud.wostore.cn
 .jyshavefu.com
 .jytc.xyz
 .jytitenu.com
+.jyuyjxx.cn
 .jywangluo.top
 .jywigigu.com
 .jyzae.cn
@@ -38010,6 +38019,7 @@ opencloud.wostore.cn
 .kirgeemo.com
 .kirgo.at
 .kirnscraps.com
+.kisafnid.space
 .kishypece.com
 .kissmetrics.io
 .kissmyads.biz
@@ -38429,6 +38439,7 @@ opencloud.wostore.cn
 .kvexx.com
 .kvezz.com
 .kvhaa.com
+.kvhcc.com
 .kvhfff.top
 .kvhttt.top
 .kvidcq.com
@@ -41293,6 +41304,7 @@ opencloud.wostore.cn
 .metanetwork.com
 .metaprofit.net
 .metatestruck.com
+.metaversn.site
 .metavertising.com
 .metavertizer.com
 .metcoc5cm.clarent.com
@@ -42231,6 +42243,7 @@ opencloud.wostore.cn
 .mrnpwuere.com
 .mrpecvqw.com
 .mrrvmp.com
+.mrshw.mobi
 .mrskincash.com
 .mrtbbnr.com
 .mrtpcfegryfgqtbuvksbaebneewer.com
@@ -43432,6 +43445,7 @@ opencloud.wostore.cn
 .njygp.cn
 .njzhlaw.cn
 .nkepulqeetn.com
+.nkevca.cn
 .nkis.nikkei.com
 .nkjiashi.com
 .nklrfqgz.com
@@ -44222,6 +44236,7 @@ opencloud.wostore.cn
 .ofenop.ru
 .offaces-butional.com
 .offclaydolon.com
+.offdeck.telkomsel.com
 .offer.camp
 .offerforge.com
 .offerforge.net
@@ -48502,6 +48517,7 @@ opencloud.wostore.cn
 .rb.sport-express.ru
 .rbcdn.com
 .rbck.st3pst3p.com
+.rbgfxxt.cn
 .rbioclv.cn
 .rblxgeionyqax.com
 .rbmcash.com
@@ -49641,6 +49657,7 @@ opencloud.wostore.cn
 .ropx.xyz
 .rorer.ru
 .rorgoops.com
+.rorlsblm.cyou
 .rorserdy.com
 .ros-infonews.ru
 .rosafun.com
@@ -51004,6 +51021,7 @@ opencloud.wostore.cn
 .sgdgh15.com
 .sgdmobile.com
 .sghmho.com
+.sghmvum.cn
 .sglyd.cn
 .sgood.ru
 .sgphctileh-a.akamaihd.net
@@ -52879,6 +52897,7 @@ opencloud.wostore.cn
 .statsforever.com
 .statsie.com
 .statsig.com
+.statsigapi.net
 .statsinsight.com
 .statsit.com
 .statsmachine.com
@@ -53802,6 +53821,7 @@ opencloud.wostore.cn
 .taigamesunwin.vin
 .taigo88vn.com
 .taigrooh.net
+.taiheian.top
 .taiiwin.club
 .taiiwinclub.cc
 .taiiwinclub.vip
@@ -55491,6 +55511,7 @@ opencloud.wostore.cn
 .tracker.samplicio.us
 .tracker.stats.in.th
 .tracker.thichxemphim.net
+.tracker.tolvnow.com
 .tracker.twenga.pl
 .tracker.vgame.us
 .tracker.washtimes.com
@@ -56225,6 +56246,7 @@ opencloud.wostore.cn
 .tumgcmu.cn
 .tummiarunzpf.com
 .tummyunmovedfetch.com
+.tumnxwvd.ink
 .tumri.net
 .tumultmarten.com
 .tumuta.xyz
@@ -57572,6 +57594,7 @@ opencloud.wostore.cn
 .vggdaiesp.com
 .vgijoh.com
 .vgimer.cn
+.vgrovkb.cn
 .vgs-collect-keeper.apps.verygood.systems
 .vgw35hwr4w6x.com
 .vh79.com
@@ -57888,6 +57911,7 @@ opencloud.wostore.cn
 .visioncriticalpanels.com
 .visionsage.com
 .visistat.com
+.visit-prod-us.occa.ocs.oraclecloud.com
 .visit2visit.de
 .visitbox.de
 .visitingtoelargely.com
@@ -58271,6 +58295,7 @@ opencloud.wostore.cn
 .vulgartaivert.website
 .vuliglsf.space
 .vulturechinamaternity.com
+.vumnxwvf.ink
 .vupulse.com
 .vupyepafn.com
 .vuryua.ru
@@ -60617,6 +60642,7 @@ opencloud.wostore.cn
 .xlog.tiktokv.com
 .xlounge.ru
 .xlow.xyz
+.xlrdr.com
 .xlviiirdr.com
 .xlviirdr.com
 .xlvludsigt.com
@@ -60702,6 +60728,7 @@ opencloud.wostore.cn
 .xpicvrubu.xyz
 .xpicw.top
 .xpizjd4.cn
+.xpj08.oss-cn-beijing.aliyuncs.com
 .xplnnxx.top
 .xplosion.de
 .xplusone.com
@@ -60746,6 +60773,7 @@ opencloud.wostore.cn
 .xsell.6waves.com
 .xshijie.xyz
 .xshop3.ru
+.xsjh001.xyz
 .xsjh002.xyz
 .xsjyun.cn
 .xsrs.com
@@ -61101,6 +61129,7 @@ opencloud.wostore.cn
 .yfetyg.com
 .yfot.com.cn
 .yfum.com
+.yfunkgk.cn
 .yfupfhqxmwvu.com
 .yfygs.cn
 .yfzbn.com
@@ -62079,6 +62108,7 @@ opencloud.wostore.cn
 .zlacraft.com
 .zlajnpfqgsleo.com
 .zlfgedpuxrbpgm.com
+.zlgame.top
 .zlhoteckelinie.wz.cz
 .zli.wang
 .zlin.fun
@@ -62290,6 +62320,7 @@ opencloud.wostore.cn
 .zxsmxt.com
 .zxucii.com
 .zxvvcvd.cn
+.zxwnlg.com
 .zxxds.net
 .zxycxk.love
 .zxyonlybelongstolym.xyz
