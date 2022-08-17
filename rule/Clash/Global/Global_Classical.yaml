@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-15 14:25:16
+# UPDATED: 2022-08-18 02:29:14
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 24849
+# DOMAIN-SUFFIX: 24850
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25038
+# TOTAL: 25039
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,addons.mozilla.org
@@ -14197,6 +14197,7 @@ payload:
   - DOMAIN-SUFFIX,pastie.org
   - DOMAIN-SUFFIX,patelbrothersusa.com
   - DOMAIN-SUFFIX,pathtosharepoint.com
+  - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patriademarti.com
   - DOMAIN-SUFFIX,patrickemaher.com
   - DOMAIN-SUFFIX,patrulator.ro

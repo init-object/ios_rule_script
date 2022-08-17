@@ -1,11 +1,11 @@
 # NAME: Disney
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-17 02:32:25
+# UPDATED: 2022-08-18 02:29:28
 # HOST: 1
-# HOST-SUFFIX: 161
+# HOST-SUFFIX: 164
 # USER-AGENT: 1
-# TOTAL: 163
+# TOTAL: 166
 HOST,cdn.registerdisney.go.com,Disney
 HOST-SUFFIX,20thcenturystudios.com.au,Disney
 HOST-SUFFIX,20thcenturystudios.com.br,Disney
@@ -110,11 +110,13 @@ HOST-SUFFIX,disneypeoplesurveys.com,Disney
 HOST-SUFFIX,disneyplus.bn5x.net,Disney
 HOST-SUFFIX,disneyplus.com,Disney
 HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,Disney
+HOST-SUFFIX,disneyprivacycenter.com,Disney
 HOST-SUFFIX,disneyredirects.com,Disney
 HOST-SUFFIX,disneysrivieraresort.com,Disney
 HOST-SUFFIX,disneystore.com,Disney
 HOST-SUFFIX,disneystreaming.com,Disney
 HOST-SUFFIX,disneysubscription.com,Disney
+HOST-SUFFIX,disneytermsofuse.com,Disney
 HOST-SUFFIX,disneytickets.co.uk,Disney
 HOST-SUFFIX,disneyturkiye.com.tr,Disney
 HOST-SUFFIX,disneytvajobs.com,Disney
@@ -165,6 +167,7 @@ HOST-SUFFIX,starwarskids.com,Disney
 HOST-SUFFIX,streamingdisney.net,Disney
 HOST-SUFFIX,themarvelexperiencetour.com,Disney
 HOST-SUFFIX,thestationbymaker.com,Disney
+HOST-SUFFIX,thewaltdisneycompany.com,Disney
 HOST-SUFFIX,thisispolaris.com,Disney
 HOST-SUFFIX,watchdisneyfe.com,Disney
 HOST-SUFFIX,watchespn.com,Disney
