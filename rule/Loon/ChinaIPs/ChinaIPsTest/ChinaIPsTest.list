@@ -1,10 +1,10 @@
 # NAME: ChinaIPsTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-18 02:30:39
+# UPDATED: 2022-08-19 02:30:31
 # IP-CIDR: 6690
-# IP-CIDR6: 4554
-# TOTAL: 11244
+# IP-CIDR6: 4556
+# TOTAL: 11246
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -3570,7 +3570,7 @@ IP-CIDR,173.214.106.0/23,no-resolve
 IP-CIDR,173.214.64.0/24,no-resolve
 IP-CIDR,173.39.200.0/23,no-resolve
 IP-CIDR,174.136.237.0/24,no-resolve
-IP-CIDR,174.136.238.0/23,no-resolve
+IP-CIDR,174.136.239.0/24,no-resolve
 IP-CIDR,175.0.0.0/12,no-resolve
 IP-CIDR,175.102.0.0/16,no-resolve
 IP-CIDR,175.106.128.0/17,no-resolve
@@ -6725,7 +6725,6 @@ IP-CIDR6,2001:df0:2d80::/48,no-resolve
 IP-CIDR6,2001:df0:2e00::/48,no-resolve
 IP-CIDR6,2001:df0:2e80::/48,no-resolve
 IP-CIDR6,2001:df0:423::/48,no-resolve
-IP-CIDR6,2001:df0:59c0::/48,no-resolve
 IP-CIDR6,2001:df0:85c0::/48,no-resolve
 IP-CIDR6,2001:df0:8d40::/48,no-resolve
 IP-CIDR6,2001:df0:9c0::/48,no-resolve
@@ -11049,7 +11048,7 @@ IP-CIDR6,2a06:a005:560::/48,no-resolve
 IP-CIDR6,2a06:a005:562::/47,no-resolve
 IP-CIDR6,2a06:a005:580::/44,no-resolve
 IP-CIDR6,2a06:a005:5ae::/48,no-resolve
-IP-CIDR6,2a06:a005:660::/45,no-resolve
+IP-CIDR6,2a06:a005:660::/44,no-resolve
 IP-CIDR6,2a06:a005:770::/48,no-resolve
 IP-CIDR6,2a06:a005:7c0::/44,no-resolve
 IP-CIDR6,2a06:a005:950::/48,no-resolve
@@ -11106,10 +11105,13 @@ IP-CIDR6,2a0d:2587:3506::/47,no-resolve
 IP-CIDR6,2a0d:2587:3508::/48,no-resolve
 IP-CIDR6,2a0d:2587:350a::/48,no-resolve
 IP-CIDR6,2a0d:2587:350c::/47,no-resolve
+IP-CIDR6,2a0d:2587:350f::/48,no-resolve
 IP-CIDR6,2a0d:2587:3510::/46,no-resolve
+IP-CIDR6,2a0d:2587:3514::/47,no-resolve
+IP-CIDR6,2a0d:2587:3516::/48,no-resolve
 IP-CIDR6,2a0d:2587:3600::/40,no-resolve
 IP-CIDR6,2a0d:2587:3800::/37,no-resolve
-IP-CIDR6,2a0d:2587:6000::/35,no-resolve
+IP-CIDR6,2a0d:2587:4000::/34,no-resolve
 IP-CIDR6,2a0d:2587:8500::/40,no-resolve
 IP-CIDR6,2a0d:2587:8610::/44,no-resolve
 IP-CIDR6,2a0d:2587:8620::/44,no-resolve
