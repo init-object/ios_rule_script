@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-19 02:28:26
+# UPDATED: 2022-08-19 10:31:01
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 9554
+# DOMAIN: 9539
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 92544
+# DOMAIN-SUFFIX: 92577
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 102904
+# TOTAL: 102922
 0026645142c89aeb1.com
 017e689c749.com
 0374adc8c6a6a56.com
@@ -162,7 +162,6 @@
 5edb123fa3329.com
 5f8fbbfc2244adc9.com
 5gl1x9qc.com
-5hte21mz.com
 6066bd8aab9d73e3.com
 61kx.uk-insolvencydirect.com
 6200a50af8e3.com
@@ -1026,7 +1025,6 @@ bgwbqsmj.com
 bgwucxto.com
 bgzdrgliwew.com
 bhlusdvadp.com
-bhny.asia
 bhplyiegippcw.com
 bhrebiicmcj.com
 bhwpdezzduthrp.com
@@ -1445,7 +1443,6 @@ ckopycdb.com
 ckotfhgn.com
 cks.mynativeplatform.com
 ckxqtppyzqbll.com
-clanker-events.squarespace.com
 classicallyabsurdphotography.com
 classicspeedway.com
 clckmedia.club
@@ -1709,7 +1706,6 @@ d6e9d7d57085c0.com
 d6s3mov.cn
 d7e10fa2099.com
 d7s3muv.cn
-d7y5grtl.site
 d8b440faa110b.com
 dabxzyfcxrdgbs.com
 dah0ooy4doe.info
@@ -2412,9 +2408,7 @@ evaffwmdjgtn.com
 evanetpro.com
 evdveuys.com
 evenexcite.com
-event-collector.prd.data.s.joyn.de
 event-tag.yesware.com.herokudns.com
-event.filum.ai
 events-prod.autolist.com
 events.adwidecenter.com
 events.data.microsoft.com
@@ -3691,10 +3685,8 @@ iuegjuawehd.com
 iugwmpnszxxwti.com
 iuhojiqev.com
 iuhpbpzwpldqbj.com
-iumnxwvh.ink
 iuowwbrqblweoa.com
 iutqdjtajrhpi.com
-iuyuwh.cn
 ivastoor.com
 ivbifyia.com
 ivfwajwbhiwzw.com
@@ -4119,7 +4111,6 @@ kipasdenim.com
 kipemhoxruov.com
 kir.jp
 kiuiqcxvuox.com
-kjcnve.xyz
 kjegyqtqazui.com
 kjfxjsqmn.com
 kjhdoend.com
@@ -5579,7 +5570,6 @@ ofslaskeujwn.com
 ofuwwzlao.com
 ofwuwfgq.com
 ofzoxqcldl.com
-ogcyshr.cn
 ogdzyxly.com
 ogeemolt.net
 ogisrmbhajhyam.com
@@ -5634,7 +5624,6 @@ okvtmvrmha.com
 olb.pns.kt.com
 olctpejrnnfh.com
 oldtiger.net
-oldulgk.cn
 olfkptkfop.com
 olhupniause.com
 olkzcdihiewe.com
@@ -6208,7 +6197,6 @@ pwaqmmquztyne.com
 pwekxhwrgpfr.com
 pwoiseuoyxpxz.com
 pwondjwwgqahw.com
-pwqtkap.cn
 pwrjjvjtvmr.com
 pwufxar8.top
 pwvita.pl
@@ -6319,7 +6307,6 @@ qhpwqremdlclpk.com
 qhuktypo.com
 qiaepasvtp.com
 qibbblerzykelr.com
-qimooc.wang
 qinxpsktrelpl.com
 qirkwipiamqsi.com
 qithimsuejs.com
@@ -8412,7 +8399,6 @@ wiazkkjbeqr.com
 wicanwfobqiz.com
 wichnqeikfdp.com
 widget.chipin.com
-widget.marktjagd.de
 widget.scoutpa.com
 widget.wombo.gg
 widget.yavli.com
@@ -8438,7 +8424,6 @@ wilwasharrabred.pro
 windspotter.net
 winhugebonus.com
 winrar-soft.ru
-wisafnie.space
 wisozk.link
 with-binaryoption.com
 withbinaryoptions.com
@@ -11648,6 +11633,7 @@ zzxosget.com
 .5glyqw.com
 .5gustis.xyz
 .5h3oyhv838.com
+.5hte21mz.com
 .5htftu.com
 .5hytr.xyz
 .5i8xkqjmqubv.top
@@ -11862,6 +11848,7 @@ zzxosget.com
 .666759.xyz
 .666762.xyz
 .666763.xyz
+.666764.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -19290,6 +19277,7 @@ zzxosget.com
 .airconditionblown.com
 .airconditiondescendent.com
 .aircraftmighty.com
+.airdempu.com
 .airdropemboil.com
 .airlead.ru
 .airlytics.airlock.twcmobile.weather.com
@@ -22180,6 +22168,7 @@ zzxosget.com
 .awarealley.com
 .awarentew.xyz
 .awasete.com
+.awasrqp.xyz
 .away-stay.com
 .awbbcre.com
 .awbbjmp.com
@@ -22312,6 +22301,7 @@ zzxosget.com
 .axsrq.cn
 .axt.cool
 .axuns.com
+.axvnsla.top
 .axwndephseraj.com
 .axzav.cn
 .axzsd.pro
@@ -24394,6 +24384,7 @@ zzxosget.com
 .bhlcimjcpvkxn.com
 .bhlianhe.com
 .bhmzab.totes.com
+.bhny.asia
 .bhqvmf.staypro.fi
 .bhs4.com
 .bhu9.bankia.es
@@ -28836,6 +28827,7 @@ zzxosget.com
 .clancy.spiceworks.com
 .clandia.cn
 .clankallegation.com
+.clanker-events.squarespace.com
 .claria.com
 .clarifysuper.com
 .claring-loccelkin.com
@@ -32195,6 +32187,7 @@ zzxosget.com
 .cusecwhitten.com
 .cushionpig.com
 .cusok.ru
+.cusptumbak.com
 .cussixia.de
 .custodyabsolutiondrawback.com
 .custom.plausible.io
@@ -33188,6 +33181,7 @@ zzxosget.com
 .d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 .d7dc491d44.com
 .d7dza8s7j2am6.cloudfront.net
+.d7y5grtl.site
 .d8.sina.com.cn
 .d8.sinaimg.cn
 .d80.xyz
@@ -39425,6 +39419,7 @@ zzxosget.com
 .event-api.contactatonce.com
 .event-api.contactatonce.com.au
 .event-api.reverb.com
+.event-collector.prd.data.s.joyn.de
 .event-collector.udsrv.com
 .event-listener.air.tv
 .event-logger.tagboard.com.herokudns.com
@@ -39439,6 +39434,7 @@ zzxosget.com
 .event.dkb.de
 .event.edb.gov.sg
 .event.evtm.53.com
+.event.filum.ai
 .event.getblue.io
 .event.headlines.pw
 .event.impression-neo.naver.com
@@ -41393,6 +41389,7 @@ zzxosget.com
 .flow8free.com
 .flowcodeapp.com
 .flower.bg
+.flowerself.xyz
 .flowerstreatment.com
 .flowertt.com
 .floweryflavor.com
@@ -43927,6 +43924,7 @@ zzxosget.com
 .gkidgpdvpe.xyz
 .gkijlmbgf.xyz
 .gkirfipavwra.com
+.gkiyvbk.cn
 .gkksi.com
 .gkngokwjmykp.xyz
 .gkpohvff.com
@@ -46526,6 +46524,7 @@ zzxosget.com
 .hggtt.top
 .hghit.com
 .hghm4u7b61.com
+.hgjxp.cn
 .hgkzl.cn
 .hgo7r.cn
 .hgofcd.com
@@ -47131,6 +47130,7 @@ zzxosget.com
 .hollekeamboina.com
 .hollercatastrophe.co
 .hollercatastrophe.com
+.hollerscanelos.com
 .hollowafterthought.com
 .hollydeal.club
 .holm.ru
@@ -50790,6 +50790,7 @@ zzxosget.com
 .iulftx.com
 .iulianus-mon.com
 .iuliglsh.space
+.iumnxwvh.ink
 .iupgxu.com
 .iupnlpd.cn
 .iupot.com
@@ -50801,6 +50802,7 @@ zzxosget.com
 .iutr.uozwys.top
 .iuuff.com
 .iuwzdf.com
+.iuyuwh.cn
 .ivanie.com
 .ivcbrasil.org.br
 .ivcxpw.kogan.com
@@ -53367,6 +53369,7 @@ zzxosget.com
 .kjaay.com
 .kjbipwznkbtybs.com
 .kjbyuguv12.com
+.kjcnve.xyz
 .kjdw.com.cn
 .kjfhe.com
 .kjfoqi.cn
@@ -60024,6 +60027,7 @@ zzxosget.com
 .merylaural.info
 .merzostueru2hu8jr09.com
 .mes-bon-plans.fr
+.meshagreeable.com
 .meshare.site
 .meshlucky.com
 .meshpetrols.com
@@ -64589,6 +64593,7 @@ zzxosget.com
 .ningtoldrop.ru
 .ningxiayy.com
 .ninja.akamaized.net
+.ninja.data.olxcdn.com
 .ninja.onap.io
 .ninjacat.io
 .ninkorant.online
@@ -65016,6 +65021,7 @@ zzxosget.com
 .notificationsacademy.com
 .notifiche.secoloditalia.it
 .notifpush.com
+.notifstar.com
 .notify-bugs-fra1.rtl.de
 .notify-guru.com
 .notify-master.net
@@ -66090,6 +66096,7 @@ zzxosget.com
 .ogbsnw.tottus.com.pe
 .ogbwqq.gkwtk.xyz
 .ogclick.com
+.ogcyshr.cn
 .ogercron.com
 .ogeri.ru
 .oggifinogi.com
@@ -66294,6 +66301,7 @@ zzxosget.com
 .oldqsuoemchpr.com
 .oldrrb.bid
 .oldrummarim.club
+.oldulgk.cn
 .ole777vietnam.com
 .ole7o.cn
 .olecintri.com
@@ -72420,6 +72428,7 @@ zzxosget.com
 .pwmctl.com
 .pwnz.org
 .pwptibeetbf.com
+.pwqtkap.cn
 .pwrads.net
 .pwrbpgapi.xyz
 .pwrlkyotm.com
@@ -72502,6 +72511,7 @@ zzxosget.com
 .pyroguanites.xyz
 .pyropenunmould.com
 .pyrroylceriums.com
+.pyrrtep.cn
 .pyrwic.tuango.ca
 .pyshcpasabngyy.com
 .python.jacksellwood.com
@@ -72854,6 +72864,7 @@ zzxosget.com
 .qilinwh.cn
 .qilungroup.cn
 .qimgg.com
+.qimooc.wang
 .qincai.info
 .qinchugudao.com
 .qinger.name
@@ -72889,6 +72900,7 @@ zzxosget.com
 .qiqqh.cn
 .qirnz.com
 .qiruidea.com
+.qisafniy.space
 .qisemrvldy.com
 .qishituan.top
 .qitdsl.ralf.ru
@@ -74415,6 +74427,7 @@ zzxosget.com
 .reinformaln.top
 .reingod.com
 .reinspersian.com
+.reinstandpointdumbest.com
 .reinvigorate.net
 .reiqwxxd.com
 .reiseeget.com
@@ -81876,6 +81889,7 @@ zzxosget.com
 .sobowapso.com
 .soburge.com
 .socadvnet.com
+.socalleddemocratstripe.com
 .socalledsteadilyeducated.com
 .socgate.ru
 .sochetat.net
@@ -91308,6 +91322,7 @@ zzxosget.com
 .twenticiseflo.site
 .twentiesbarton.com
 .twentieslegislation.com
+.twentycolander.com
 .twentycustomimprovement.com
 .twentyhandful.com
 .twentypassengerdiagram.com
@@ -94114,6 +94129,7 @@ zzxosget.com
 .vlclptmgxmijbyf.com
 .vlexokrako.com
 .vlgpkn.com
+.vliao365.com
 .vlion.cn
 .vliplatform.com
 .vlitag.com
@@ -96141,6 +96157,7 @@ zzxosget.com
 .widget.lawyer-feedot.ru
 .widget.mango-office.ru
 .widget.market-place.su
+.widget.marktjagd.de
 .widget.mediastealer.com
 .widget.moin.ai
 .widget.my.feedot.com
@@ -96360,6 +96377,7 @@ zzxosget.com
 .wirewuss.com
 .wirial.com
 .wirsauco.com
+.wisafnie.space
 .wiseezab.com
 .wisepops.com
 .wisepush.video.baidu.com

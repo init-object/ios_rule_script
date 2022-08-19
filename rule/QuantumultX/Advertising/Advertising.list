@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-19 02:27:43
+# UPDATED: 2022-08-19 10:30:22
 # HOST: 14149
 # HOST-KEYWORD: 77
-# HOST-SUFFIX: 73951
+# HOST-SUFFIX: 73950
 # IP-CIDR: 240
-# TOTAL: 88417
+# TOTAL: 88416
 HOST,ad.xy2013.cn,Advertising
 HOST,ads.play.cbsi.video,Advertising
 HOST,ads.reembed.com,Advertising
@@ -74217,7 +74217,6 @@ HOST-SUFFIX,wb.gtimg.com,Advertising
 HOST-SUFFIX,wbanz.com,Advertising
 HOST-SUFFIX,wbaor.com,Advertising
 HOST-SUFFIX,wbapp.mobile.sina.cn,Advertising
-HOST-SUFFIX,wbapp.uve.weibo.com,Advertising
 HOST-SUFFIX,wbclick.mobile.sina.cn,Advertising
 HOST-SUFFIX,wbdcrmn.cn,Advertising
 HOST-SUFFIX,wbdds.allocine.fr,Advertising
