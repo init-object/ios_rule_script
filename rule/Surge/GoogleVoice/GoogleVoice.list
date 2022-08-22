@@ -5,3 +5,7 @@
 # DOMAIN: 1
 # TOTAL: 1
 DOMAIN,lens.l.google.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,mtalk.google.com
+DOMAIN,web.voice.telephony.goog
